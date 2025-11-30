@@ -1,0 +1,7 @@
+** BUILD FAILED **
+
+
+The following build commands failed:
+	PhaseScriptExecution [CP-User]\ Generate\ app.config\ for\ prebuilt\ Constants.manifest /Users/saulmacias/Library/Developer/Xcode/DerivedData/TaskAces-cjiglfirrtithdgodyiuxegnfczx/Build/Intermediates.noindex/Pods.build/Release-iphoneos/EXConstants.build/Script-46EB2E00024510.sh (in target 'EXConstants' from project 'Pods')
+	Building workspace TaskAces with scheme TaskAces and configuration Release
+(2 failures)
